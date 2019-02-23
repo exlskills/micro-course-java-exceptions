@@ -2,7 +2,7 @@ url_name: exceptions_java
 display_name: Java Exceptions
 org: EXLskills
 course: exceptions_java
-course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/micro-course-java-exceptions.jpg
+course_image: https://cdn-course-logos.exlskills.com/micro-course-java-exceptions.jpg
 language: en
 est_minutes: 120
 primary_topic: Java
